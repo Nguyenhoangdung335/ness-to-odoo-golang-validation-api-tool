@@ -1,0 +1,15 @@
+# Ignore compiled Go files
+*.exe
+*.out
+*.test
+
+# Ignore temporary files
+temp/*
+logs/*
+
+# Ignore vendor directory
+vendor/*
+
+# Ignore IDE-specific files
+.idea/*
+.vscode/*
